@@ -1,0 +1,29 @@
+{
+    "manifest_version": 2,
+
+    "name": "News Verifier",
+    "description": "This extension Verify the news and gives the probability for fake and real.",
+    "version": "1.0",
+    "background": {
+        "scripts": ["popup.js"],
+        "persistent": false
+    },
+    "icons": {
+        "128": "NV.png",
+        "48": "NV.png",
+        "16": "NV.png"
+    },
+
+    "browser_action": {
+        "default_icon": "NV.png",
+        "default_popup": "popup.html"
+    },
+
+
+
+    "permissions": [
+        "storage",
+        "notifications",
+        "contextMenus"
+    ]
+}

@@ -1,0 +1,73 @@
+.button {
+  background-color: #000000; 
+  border: none;
+  color: white;
+  padding: 12px 28px;
+  text-align: center;
+  border-radius: 12px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+#myProgress {
+  width: 100%;
+  background-color: #ddd;
+}
+
+#myBar {
+  width: 10%;
+  height: 30px;
+  background-color: #4CAF50;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+
+.result{
+     
+    margin:10px;
+    padding: 12px 28px;
+  text-align: center;
+  border-radius: 12px;
+  color: white;
+  display: inline-block;
+  font-size: 25px;
+}
+
+.input {
+	border: 2px solid #765942;
+	border-radius: 10px;
+	height: 200px;
+	width: 400px;
+}
+
+h1 {
+    font-size: 30px;
+    text-shadow: 2px 2px 2px #CCCCCC;
+}
+
+.instruct{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.popupbox{
+    align-content: center;
+    justify-content: center;
+}
