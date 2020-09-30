@@ -26,3 +26,10 @@ Follow the below gif for demo
 
 *Machine Learning Model* folder contains dataset and a ML model which will predict the News whether it's True or False.
 Navigate to 'Machine Laerning Model' folder for more information.
+
+# Built with
+For backend : _Python3_ , Azure Function
+For frontend: Javascript, Html, CSS
+
+# How to Deploy?
+Refer to 'Azure Function\readme.md' file.
