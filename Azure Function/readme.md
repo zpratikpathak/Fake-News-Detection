@@ -5,7 +5,6 @@ This model is connected using Azure Function and deployed on Azure using 'Visual
 This provides backend to our chrome extension.
 
 # How to deploy 
-For deployment purpose please refer to this article https://docs.microsoft.com/en-us/azure/azure-functions/functions-develop-vs
-
+Open this folder in Visual Studio and then please refer to this article https://docs.microsoft.com/en-us/azure/azure-functions/functions-develop-vs
 # API
 After deployment, 'Visual Studio Code' will give you a HTTP API which you can use in `Chrome extension/popup.js`
